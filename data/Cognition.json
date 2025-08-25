@@ -10,13 +10,7 @@
         {
             "level_id": 57600307,
             "user": "Abbadox",
-            "country": "Philippines",
-            "percent": 100,
-            "link": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
-        },
-        {
-            "level_id": 57600307,
-            "user": "Abaddox",
+            "date": "16-03-2022",
             "country": "Philippines",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=_fgSV6l2ElE"
@@ -31,6 +25,7 @@
         {
             "level_id": 57600307,
             "user": "Alphanumeric",
+            "date": "20-05-2024",
             "country": "Singapore",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=dmaROzZ3a9s"
@@ -38,6 +33,7 @@
         {
             "level_id": 57600307,
             "user": "birii",
+            "date": "12-11-2024",
             "country": "Vietnam",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=Hqo6twOOjj0"
@@ -45,6 +41,7 @@
         {
             "level_id": 57600307,
             "user": "MADxSG",
+            "date": "12-03-2025",
             "country": "Malaysia",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=ef5GGvqEshg"
