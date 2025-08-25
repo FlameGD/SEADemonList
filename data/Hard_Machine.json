@@ -9,6 +9,14 @@
     "records": [
         {
             "level_id": 72744364,
+            "user": "Sangkan",
+            "date": "22-10-2023",
+            "country": "Indonesia",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=StrFPm4DdnU"
+        },
+        {
+            "level_id": 72744364,
             "user": "MatsuoIsHere",
             "date": "10-05-2024",
             "country": "Philippines",
