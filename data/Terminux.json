@@ -6,5 +6,14 @@
     "country": "Philippines",
     "verification": "https://www.youtube.com/watch?v=xbHwJDkL1vw",
     "percentToQualify": 69,
-    "records": []
+    "records": [
+        {
+            "level_id": 57828784,
+            "user": "Sangkan",
+            "date": "08-02-2025",
+            "link": "https://www.youtube.com/watch?v=U1ZxHtQ45DU",
+            "country": "Indonesia",
+            "percent": 100
+        }
+    ]
 }
